@@ -1,0 +1,10 @@
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.deps.json
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.runtimeconfig.json
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.runtimeconfig.dev.json
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.dll
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.pdb
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.csproj.CoreCompileInputs.cache
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.AssemblyInfoInputs.cache
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.AssemblyInfo.cs
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.dll
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.Text.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.Text.App.pdb

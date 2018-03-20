@@ -1,0 +1,10 @@
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.deps.json
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.runtimeconfig.json
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.runtimeconfig.dev.json
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.dll
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/bin/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.pdb
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.csproj.CoreCompileInputs.cache
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.AssemblyInfoInputs.cache
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.AssemblyInfo.cs
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.dll
+/Users/joeshepherd/Projects/amsVisionDemo/amsVisionDemo.Image.OCR.App/obj/Debug/netcoreapp2.0/amsVisionDemo.Image.OCR.App.pdb
