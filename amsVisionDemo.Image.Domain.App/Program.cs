@@ -15,7 +15,7 @@ namespace amsVisionDemo.Image.Domain.App
         // **********************************************
 
         // Replace the subscriptionKey string value with your valid subscription key.
-        const string subscriptionKey = "0fd3486541284c07989b46c789357097";
+        const string subscriptionKey = "key";
 
         // Replace or verify the region.
         //
